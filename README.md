@@ -43,6 +43,48 @@ You can use this dataset to answer questions like:
 * ✅ What product features most influence **customer purchase decisions**?
 
 ---
+📊 Regression Analysis Summary
+Regression analysis was conducted to examine how RAM and ROM (storage) impact the product price and sales volume.
+
+🎯 Model 1: Price ~ RAM + ROM
+Objective: Assess whether RAM and ROM affect the price of mobile phones and laptops.
+
+Result:
+
+Weak positive correlation between features and price.
+
+Model R² ≈ 0.0009, indicating a very low explanatory power.
+
+Conclusion: RAM and ROM alone do not significantly explain price variations — other factors (brand, processor, display, etc.) likely have a stronger effect.
+
+📈 Model 2: Sales Volume ~ RAM + ROM
+Objective: Evaluate how RAM and ROM influence purchase behavior (via sales volume).
+
+Result:
+
+Mid-range RAM/ROM products had higher sales volume.
+
+High-end specs didn’t always lead to more purchases.
+
+Indicates customer preference for affordability and balanced features, rather than maximum specifications.
+
+🛠️ Analysis Ideas
+Pivot Tables: Summarize revenue/sales by product, brand, and region.
+
+Regression Analysis: Explore further how product features affect price or customer demand.
+
+Visualization: Use charts to show top-selling brands, feature impact, and regional distribution.
+
+Filtering: Focus on product types (Mobiles vs Laptops) or specific regions for targeted insights.
+
+📄 Data Quality Notes
+Ensure missing values (e.g., blank RAM/ROM or price) are cleaned before analysis.
+
+Prices and revenue should be in a consistent currency.
+
+Sales volume and revenue should be numeric for analysis.
+
+
 
 ## 🛠️ Analysis Ideas
 
@@ -50,14 +92,6 @@ You can use this dataset to answer questions like:
 * **Regression Analysis**: Examine how features (RAM, ROM, etc.) affect price or sales.
 * **Visualization**: Use charts to show top-selling brands, feature impact, and regional distribution.
 * **Filtering**: Focus on product types (Mobiles vs Laptops) or specific regions for targeted insights.
-
----
-
-## 📄 Data Quality Notes
-
-* Ensure **missing values** (e.g., blank RAM/ROM or price) are cleaned before analysis.
-* Prices and revenue should be in a **consistent currency**.
-* Sales volume and revenue should be **numeric** for analysis.
 
 ---
 
