@@ -1,5 +1,5 @@
 # Mobile-Phone-and-Laptops-Prediction-
-Here’s a sample **README** file for your **Mobile Phones and Laptops Dataset**, based on your previous analysis questions and assuming it includes fields like Product Type, Brand, RAM, ROM/Storage, Price, Sales Volume, Revenue, and Region:
+Here’s a **README** file for **Mobile Phones and Laptops Dataset**, based on analysis questions and it includes fields like Product Type, Brand, RAM, ROM/Storage, Price, Sales Volume, Revenue, and Region:
 
 ---
 
