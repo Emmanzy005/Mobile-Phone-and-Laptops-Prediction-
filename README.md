@@ -1,5 +1,5 @@
 # Mobile-Phone-and-Laptops-Prediction-
-<img width="482" height="455" alt="Image" src="https://github.com/user-attachments/assets/c55364f1-72c8-47fd-aba7-79f23aa08429" />
+
 
 Here’s a **README** file for **Mobile Phones and Laptops Dataset**, based on analysis questions and it includes fields like Product Type, Brand, RAM, ROM/Storage, Price, Sales Volume, Revenue, and Region:
 
