@@ -106,3 +106,5 @@ Typically stored as:
 * Can be imported into Power BI, Excel Power Query, or Python/Pandas for analysis.
 
 ---
+
+I am open to work with you on data analysis projects,visualization projects and statistical analysis reltedprojects. You can reach me va my gmail [hundeyinemmanuelsesede@gmail.com]
